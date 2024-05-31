@@ -5,8 +5,7 @@ I am a student of management information systems. I am interested in QA engineer
 
 Skills: Java / Selenium/ C++/ HTML / CSS/TestNG
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Selenium,Java 
+- 🌱 I’m currently learning Selenium,Java,Ubuntu
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suhrabbey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmet-hakan-erceylan-0aa357261//)  
